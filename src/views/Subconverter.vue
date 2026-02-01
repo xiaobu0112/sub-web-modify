@@ -348,7 +348,7 @@ export default {
           "sub-web作者提供": "https://api.wcc.best",
         },
         backendOptions: [
-          { value: "https://subapi.cmliussss.net" }, // 添加您的后端地址
+          { value: "https://subapi.xiaobu.de5.net" }, // 添加您的后端地址
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
@@ -1312,5 +1312,6 @@ export default {
   }
 };
 </script>
+
 
 
